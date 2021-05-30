@@ -1,13 +1,13 @@
 Esta es la historia de Victor Rolo Montañez Quiroz 
-<<<<<<< HEAD
-Rolo tiene 29 años y nacio en Perú
+
+Rolo tiene 29 años y nacio en Perú colabora con este proyectp
 
 Hoy hablaremos de su vida y obra maestra. 
 
 En fotos no sale muy bien pero en realidad es muy guapo :)
-=======
+
 
 Victor Montañez tiene 29 años nacio en Perú
 
 Mañana hablaremos de su historia laboral 
->>>>>>> cabecera
+
